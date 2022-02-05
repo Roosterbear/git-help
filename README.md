@@ -25,6 +25,8 @@ git branch
 #### View the log of commits ####
 git log --pretty=oneline
 
+
+
 ### FIXING ERRORS ###
 #### Backwards commit ####
 git commit --amend
