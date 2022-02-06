@@ -4,8 +4,10 @@
 ### INITIAL ###
 #### Basic configuration ####
 git config --global user.name "Roosterbear"
+
 git config --global user.email "fernandoroosterbear@gmail.com"
 
+#
 ### FIRST PROJECT ###
 #### Create a repository ####
 git init
@@ -17,16 +19,22 @@ git add .
 git commit -m "First commit"
 
 
-
+#
 ### MOVING ON GIT ###
 #### What branch we are ####
 git branch
+
+#### Change branch ####
+git checkout coworker
+
+#### Deleting a branch ####
+git branch -d coworker
 
 #### View the log of commits ####
 git log --pretty=oneline
 
 
-
+#
 ### FIXING ERRORS ###
 #### Backwards commit ####
 git commit --amend
