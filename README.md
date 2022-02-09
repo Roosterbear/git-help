@@ -65,4 +65,10 @@ git rm --cached -r directory
 ```
 
 
-* ~~Finished~~
+~~Finished~~
+
+* Fooling with tables ;)
+
+| 1 | 2 |
+| -: | -: |
+| 3 | 4 |
