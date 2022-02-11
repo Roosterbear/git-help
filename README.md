@@ -26,6 +26,12 @@ git add .
 ```git
 git commit -m "`First commit`"
 ```
+#### Get a project ####
+```git
+git remote add origin https://github.com/Roosterbear/your-proyect.git
+git branch -M main
+git push -u origin main
+```
 
 #
 > MOVING ON GIT
