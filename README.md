@@ -25,14 +25,17 @@ git add .
 #### Commit changes [with a message] ####
 ```git
 git commit -m "`First commit`"
-
-#### Create a GitHub proyect
 ```
+#### Now create a GitHub proyect
+
 #### Get a project ####
 ```git
 git remote add origin https://github.com/Roosterbear/your-proyect.git
-git branch -M main
-(You can use Visual Studio Code to push easily) or...
+(git branch -M main) <-Optional
+```
+####You can use Visual Studio Code to push easily 
+or...
+```git
 git push -u origin main
 ```
 
