@@ -2,7 +2,7 @@
 ## The most used commands ##
 
 #
-> INITIAL 
+> INITIAL (Just the first time configuration)
 
 #### Basic configuration ####
 ```git
@@ -25,11 +25,14 @@ git add .
 #### Commit changes [with a message] ####
 ```git
 git commit -m "`First commit`"
+
+#### Create a GitHub proyect
 ```
 #### Get a project ####
 ```git
 git remote add origin https://github.com/Roosterbear/your-proyect.git
 git branch -M main
+(You can use Visual Studio Code to push easily) or...
 git push -u origin main
 ```
 
