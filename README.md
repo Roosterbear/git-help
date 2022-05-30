@@ -24,7 +24,7 @@ git add .
 ```
 #### Commit changes [with a message] ####
 ```git
-git commit -m "`First commit`"
+git commit -m "First commit"
 ```
 #### Now create a GitHub proyect
 
