@@ -33,7 +33,7 @@ git commit -m "First commit"
 git remote add origin https://github.com/Roosterbear/your-proyect.git
 (git branch -M main) <-Optional
 ```
-####You can use Visual Studio Code to push easily 
+#### You can use Visual Studio Code to push easily 
 or...
 ```git
 git push -u origin main
